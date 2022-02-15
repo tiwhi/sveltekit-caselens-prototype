@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-	.card {
-		@apply bg-white rounded p-6 shadow-lg;
-	}
+  .card {
+    @apply bg-white rounded p-6 shadow-lg;
+  }
 }
