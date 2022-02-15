@@ -1,0 +1,20 @@
+# Broad Goals:
+- Create reusable components with tailwind and svelte that resemble material ui components 
+- MAYBE create a storybook integration so that I can use these over in other projects easily and share them 
+
+
+# Components to Make 
+started - Top App Bar 
+started - Paper/Surface 
+started - Card 
+- Menu 
+- Menu Surface 
+- List 
+- Ripple Effect 
+- Tabs 
+- Buttons
+- Chips 
+- Text Input Fields (need to expand on types)
+- Sidebar 
+- Drawer 
+- Accordion 

@@ -1,0 +1,22 @@
+Main Goal: 
+- Get a functioning version of website running in less than 5 days 
+
+Front End Goals:
+- just get the existing ui from the front page of the app set up 
+- create a landing page 
+- create a login page 
+- add firebase auth 
+- experiment with smui ripple effect being added to project in a branch 
+- create a [casename].svelte page for individual cases 
+- create a case search results page 
+- create a search bar (like smui?)
+- create search filter sidebar 
+- [vague] break up the stuff in the main app.svelte file into individual components
+
+Back End Goals: 
+- get backend fastapi code ported over to this project 
+- Get data into a shape where it can be put in an sql database 
+- Get data into a shape where it can be put into elastic search (both regular and for individual paragraph by paragraph search - maybe the latter will also work for the former)
+- Get Firebase Hooked up
+- Get Firebase Analytics Hooked up 
+- 
